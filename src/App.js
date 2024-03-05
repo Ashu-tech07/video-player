@@ -150,6 +150,7 @@ function App() {
       <Divider style={{ 
         marginTop:'2rem',
       }}/>
+      {/* <------------------------- PlayList area start -----------------------------> */}
       <Paper id='paper' elevation={0} style={{
         overflowX:'auto',
       }}>
